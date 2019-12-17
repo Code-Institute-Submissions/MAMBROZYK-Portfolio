@@ -14,9 +14,9 @@ My goal in the design was to creata a simple,easy to navigate website.
 
 ## Skeleton
 
-[Landing wireframe](../tree/master/wireframes/landing.jpeg).\
-[About wireframe](../tree/master/wireframes/about.jpeg).\
-[Work wireframe](../tree/master/wireframes/work.jpeg).\
+[Landing wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/landing.jpg).\
+[About wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/about.jpg).\
+[Work wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/work.jpg).\
 
 ## Surface
 
