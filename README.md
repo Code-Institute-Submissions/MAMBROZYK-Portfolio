@@ -16,7 +16,7 @@ My goal in the design was to creata a simple,easy to navigate website.
 
 [Landing wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/landing.jpg).\
 [About wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/about.jpg).\
-[Work wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/work.jpg).\
+[Work wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/work.jpg).
 
 ## Surface
 
