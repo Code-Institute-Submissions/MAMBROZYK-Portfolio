@@ -14,9 +14,9 @@ My goal in the design was to creata a simple,easy to navigate website.
 
 ## Skeleton
 
-[Landing wireframe](../master/wireframes/landing.jpeg).
-[About wireframe](\wireframes/about.jpg).\
-[Work wireframe](../master/wireframes/work.jpeg).
+[Landing wireframe](../tree/master/wireframes/landing.jpeg).\
+[About wireframe](../tree/master/wireframes/about.jpeg).\
+[Work wireframe](../tree/master/wireframes/work.jpeg).\
 
 ## Surface
 
