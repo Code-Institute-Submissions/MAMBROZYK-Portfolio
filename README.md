@@ -14,9 +14,9 @@ My goal in the design was to creata a simple,easy to navigate website.
 
 ## Skeleton
 
-[Landing wireframe](../blob/master/wireframes/landing.jpeg).\
-[About wireframe](../blob/master/wireframes/about.jpeg).\
-[Work wireframe](../blob/master/wireframes/work.jpeg).\
+[Landing wireframe](../master/wireframes/landing.jpeg).\
+[About wireframe](../master/wireframes/about.jpeg).\
+[Work wireframe](../master/wireframes/work.jpeg).
 
 ## Surface
 
@@ -24,7 +24,7 @@ My goal in the design was to creata a simple,easy to navigate website.
 
 1.HTML\
 2.CSS\
-3.Bootstrap (4.3.1)\
+3.Bootstrap (4.3.1)
 
 ## Features
 
