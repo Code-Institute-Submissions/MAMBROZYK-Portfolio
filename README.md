@@ -2,41 +2,41 @@
 
 This is my portfolio website,its' aim is to present my skills to prospective employers.
 
-# Demo
+## Demo
 
-# Strategy
+## Strategy
 
 My goal in the design was to creata a simple,easy to navigate website.
 
-# Scope
+## Scope
 
-# Structure
+## Structure
 
-# Skeleton
+## Skeleton
 
-[Landing wireframe](../blob/master/wireframes/landing.jpeg)
-[About wireframe](../blob/master/wireframes/about.jpeg)
-[Work wireframe](../blob/master/wireframes/work.jpeg)
+[Landing wireframe](../blob/master/wireframes/landing.jpeg).
+[About wireframe](../blob/master/wireframes/about.jpeg).
+[Work wireframe](../blob/master/wireframes/work.jpeg).
 
-# Surface
+## Surface
 
-# Technologies
+## Technologies
 
 1.HTML
 2.CSS
 3.Bootstrap (4.3.1)
 
-# Features
+## Features
 
-# Testing
+## Testing
 
-# Deployment
+## Deployment
 
-# Credits
+## Credits
 
-# Content
+## Content
 
-# Media
+## Media
 
 All photos were taken from Unsplash.Photos taken by Joshua Earle and Antoine Rault.
 
