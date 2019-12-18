@@ -18,10 +18,10 @@ html {
   font-family: "Monoton", cursive;
   font-size: 2em !important;
 }
-.logo {
+/*.logo {
   font-family: "Monoton", cursive;
   text-align: justify;
-}
+}*/
 .img1,
 .img2 {
   max-width: 100%;
@@ -30,12 +30,6 @@ html {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-
-  /* 
-    fixed=parallax
-    scroll=normal
-
-*/
   background-attachment: fixed;
 }
 
@@ -47,7 +41,6 @@ html {
   width: 100%;
   text-align: center;
   color: white;
-
   letter-spacing: 8px;
 }
 p {
@@ -57,7 +50,7 @@ h1 {
   font-family: "Caveat", cursive;
   font-size: 4vw !important;
 }
-
+/*------About me section-------*/
 .container {
   margin-right: auto;
   margin-left: auto;
@@ -70,7 +63,6 @@ h1 {
   margin-right: -15px;
 }
 
-/*------Hi section-------*/
 #Hi article h2 {
   text-align: center;
   color: #2574c9;
@@ -78,7 +70,6 @@ h1 {
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-family: "Caveat", cursive;
-  font-weight: 500;
   font-size: 4vw;
 }
 #Hi article p {
@@ -119,7 +110,7 @@ h1 {
   padding: 25px;
 }
 
-/*-----"icons-left"---ver2-----*/
+/*-----"icons-left"------*/
 
 #What .html1 {
   position: relative;
@@ -162,7 +153,7 @@ h1 {
   }
 }
 
-/*-----"icons-right"----ver2----*/
+/*-----"icons-right"-------*/
 
 #What .phone1 {
   position: relative;
