@@ -240,6 +240,42 @@ a:active {
   margin-top: 1rem;
 }
 
+/*------- Work ---------*/
+
+.work {
+  max-width: 100%;
+  position: relative;
+  opacity: 0.6;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../images/image3.jpg");
+  min-height: 275px;
+}
+
+.workheading {
+  padding-top: 3rem;
+  text-align: center;
+  color: white;
+}
+
+#projects img {
+  max-width: 100%;
+  height: auto;
+  float: left;
+  padding-top: 2rem;
+}
+.projectimage {
+  text-align: center;
+  font-size: 2rem;
+}
+#projects {
+  padding: 2rem;
+}
+#projects a {
+  color: #212529;
+}
+
 @media (max-width: 576px) {
   .img1,
   .img2 {
