@@ -3,8 +3,8 @@ html {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  font-family: "Roboto", sans-serif;
-  line-height: 1.8em;
+  font-family: "EB Garamond", sans-serif;
+  /*line-height: 1.8em;*/
   scroll-behavior: smooth;
 }
 
@@ -12,16 +12,16 @@ html {
   background-color: transparent;
   background-image: none;
   border-color: none;
-  font-size: 20px;
+  font-size: 1.3rem;
+  font-family: "Roboto";
 }
 .navbar-brand {
   font-family: "Monoton", cursive;
-  font-size: 2em !important;
+  font-size: 2em;
 }
 .img1,
 .img2 {
   max-width: 100%;
-  position: relative;
   opacity: 0.6;
   background-position: center;
   background-size: cover;
@@ -30,47 +30,36 @@ html {
 }
 
 .img1text {
-  font-family: brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light",
-    "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Roboto", sans-serif;
   position: absolute;
   top: 50%;
   width: 100%;
   text-align: center;
   color: white;
-  letter-spacing: 8px;
-}
-.img1text p {
-  font-size: 1em !important;
-}
-h1 {
-  font-family: "Caveat", cursive;
-  font-size: 4vw !important;
-}
-/*------About me section-------*/
-.container {
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
-  font-size: 20px;
-}
-.row {
-  margin-left: -15px;
-  margin-right: -15px;
+  letter-spacing: 0.5rem;
+  font-size: 1em;
 }
 
-#Hi article h2 {
+h1 {
+  font-family: "Caveat", cursive;
+  font-size: 4rem;
+}
+/*------About me section-------*/
+#Hi h2 {
   text-align: center;
   color: #2574c9;
-  padding: 0.5em 0;
+  padding: 1rem 0;
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-family: "Caveat", cursive;
-  font-size: 4vw;
+  font-size: 4rem;
 }
-#Hi article p {
+#Hi p {
   text-align: center;
-  margin: 0 0 2rem;
+  padding: 2% 10%;
+  color: #545454;
+  font-size: 1.5rem;
+  font-weight: 500;
 }
 /*------what section------*/
 #What header h2 {
@@ -80,14 +69,25 @@ h1 {
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-family: "Caveat", cursive;
-  font-size: 4vw;
+  font-size: 4rem;
 }
 #What h3 {
   color: #79a2ce;
+  padding: 3% 0%;
+  font-family: "Roboto", sans-serif;
+}
+
+#What p {
+  font-size: 1.5rem;
+  color: #545454;
 }
 #design {
-  margin: 40px 0px 50px;
+  margin: auto;
 }
+#develop {
+  margin: auto;
+}
+
 .fa-html5 {
   color: #e54d26;
 }
@@ -100,14 +100,17 @@ h1 {
 .fa-bold {
   color: #563d7c;
 }
-#develop {
-  margin: 40px 0px 80px;
+
+#iconz {
+  margin: auto;
 }
-#design .icons1 {
-  padding: 1.5rem 1rem 1.5rem;
+.icons1 {
+  padding: 10% 3%;
 }
-#develop .icons2 {
-  padding: 1.5rem;
+.icons2 {
+  text-align: center;
+  letter-spacing: 1rem;
+  padding: 10%;
 }
 
 /*-----"icons-left"------*/
@@ -203,40 +206,48 @@ h1 {
 /*Photo by Antoine Rault on Unsplash*/
 .img2 {
   background-image: url("../images/image3.jpg");
-  min-height: 300px;
+  min-height: 180px;
 }
 
-#footer {
+/*----Message section----*/
+
+#Message h2 {
   text-align: center;
-  color: white;
+  color: #2574c9;
+  padding: 0.5em 0;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-family: "Caveat", cursive;
+  font-size: 4rem;
 }
-.slogan {
-  padding-top: 2rem;
+.button {
+  padding: 2rem 0 5rem;
 }
-.footlinks ul {
-  list-style: none;
-  margin: 0 auto;
-  padding: 0;
-  max-width: 700px;
-}
-.footlinks li {
-  float: left;
-}
-.footlinks {
-  padding-top: 2rem;
-}
-.footlinks a,
-.footlinks a:hover,
-.footlinks a:visited,
-.footlinks a:link,
-.footlinks a:active {
+.btn-primary {
+  background-color: #5297e0;
+  border: none;
+  color: #14467c;
+  padding: 10px 25px;
+  text-align: center;
   text-decoration: none;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-style: "Roboto";
+}
+.btn-primary:hover {
+  background-color: #358ae6;
+  color: #14467c;
+}
+
+/*-----footer----*/
+
+#contacts {
+  text-align: center;
+  font-size: 1.5rem;
   color: white;
-  word-spacing: 20px;
-  padding: 0px 50px;
 }
 .footicons {
-  padding-top: 4rem;
+  padding: 2rem 0;
   margin-top: 1rem;
 }
 .footicons a,
@@ -246,6 +257,10 @@ h1 {
 .footicons a:active {
   text-decoration: none;
   color: white;
+  letter-spacing: 1rem;
+}
+#contacts p {
+  font-size: 0.9rem;
 }
 
 /*------- Work.html---------*/
@@ -297,26 +312,26 @@ h1 {
   .icons1,
   .icons2 {
     width: 100%;
-    font-size: 3vw;
+    font-size: 2vw;
   }
-  h1 {
+}
+/*h1 {
     font-size: 9vw !important;
   }
   h2 {
     font-size: 10vw !important;
-  }
-  .footlinks li {
-    width: 50%;
-  }
-  .img1text p {
-    font-size: 0.4em !important;
-  }
+  }*/
+.footlinks li {
+  width: 50%;
 }
+
 @media (min-width: 992px) {
   .container {
     max-width: 970px;
   }
-
+  #develop {
+    margin: 2rem 0 4rem;
+  }
   #develop .icons2 {
     letter-spacing: 10px;
   }
