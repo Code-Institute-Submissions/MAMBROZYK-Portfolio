@@ -261,6 +261,7 @@ h1 {
 }
 #contacts p {
   font-size: 0.9rem;
+  color: white;
 }
 
 /*------- Work.html---------*/
@@ -313,6 +314,10 @@ h1 {
   .icons2 {
     width: 100%;
     font-size: 2vw;
+  }
+  .container-fluid {
+    text-align: center;
+    padding: 0;
   }
 }
 /*h1 {
