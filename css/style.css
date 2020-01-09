@@ -282,6 +282,11 @@ h1 {
   text-align: center;
   color: white;
 }
+#Mywork h3 {
+  color: #79a2ce;
+  padding: 3% 0%;
+  font-family: "Roboto", sans-serif;
+}
 
 #projects img {
   max-width: 100%;
@@ -317,7 +322,6 @@ h1 {
   }
   .container-fluid {
     text-align: center;
-    padding: 0;
   }
 }
 /*h1 {
