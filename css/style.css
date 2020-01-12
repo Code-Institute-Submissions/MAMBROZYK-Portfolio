@@ -4,7 +4,6 @@ html {
   margin: 0px;
   padding: 0px;
   font-family: "EB Garamond", sans-serif;
-  /*line-height: 1.8em;*/
   scroll-behavior: smooth;
   overflow-x: hidden;
 }
@@ -202,12 +201,12 @@ h1 {
 }
 /**Photo by Joshua Earle on Unsplash*/
 .img1 {
-  background-image: url("../images/image1.jpg");
+  background-image: url("../images/bgimage.jpg");
   min-height: 100%;
 }
 /*Photo by Antoine Rault on Unsplash*/
 .img2 {
-  background-image: url("../images/image3.jpg");
+  background-image: url("../images/mountainsky.jpg");
   min-height: 180px;
 }
 
@@ -286,7 +285,7 @@ h1 {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("../images/image3.jpg");
+  background-image: url("../images/mountainsky.jpg");
   min-height: 275px;
 }
 
@@ -337,12 +336,6 @@ h1 {
     text-align: center;
   }
 }
-/*h1 {
-    font-size: 9vw !important;
-  }
-  h2 {
-    font-size: 10vw !important;
-  }*/
 .footlinks li {
   width: 50%;
 }
