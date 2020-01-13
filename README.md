@@ -14,6 +14,8 @@ Live demo can be found [here](https://misza80.github.io/MAMBROZYK-Portfolio/).
 
 As an employer I expect to see a showcase of Michal's work.
 
+![](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/images/workscreenshot.png)
+
 As a recruiter I expect be able to find Michal's resume following LinkedIn link.
 
 # Strategy
@@ -22,7 +24,7 @@ My goal in the design was to create a simple,easy to navigate website.
 
 # Scope
 
-For employers, I wanted to provide them with some brief information about my skills and my work. They can access more information about me by folowing the LinkedIn link.
+For employers, I wanted to provide them with some brief information about my skills and my work.In the Work section of my website they can view projects I have worked on and have access to both the live version and the GitHub repository by clicking on the Font Awesome icons. They are also able to view my social media profiles via clicking on the icons in the footer.
 
 # Structure
 
@@ -36,7 +38,7 @@ In the about section I wanted to provide a overview of my skills,and in work sec
 
 # Surface
 
-A plain white background was chosen
+A plain white background was chosen as to not distract viewer from the content.
 
 ## Technologies
 
@@ -52,7 +54,7 @@ In the future I would like to add more projects.I would also like to change the 
 
 ## Testing
 
-Website was tested on Google Chrome,Firefox and Opera browsers in their latest versions.Website was tested on multiple mobile devices to ensure compatibility and responsivness. Code was validated using W3C validation service.All links were tested manually and will open in new browser tab.
+Website was tested on Google Chrome,Firefox and Opera browsers in their latest versions.Website was tested on multiple mobile device (Phone5,6,XR Samsung Galaxy s5,Apple Ipad) to ensure compatibility and responsivness.Collapsible navbar works correctly on mobile devices. Code was validated using W3C validation service.All links were tested manually and will open in new browser tab.
 
 ## Deployment
 
