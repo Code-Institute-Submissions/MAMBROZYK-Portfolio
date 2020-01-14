@@ -24,7 +24,7 @@ My goal in the design was to create a simple,easy to navigate website.
 
 # Scope
 
-For employers, I wanted to provide them with some brief information about my skills and my work.In the Work section of my website they can view projects I have worked on and have access to both the live version and the GitHub repository by clicking on the Font Awesome icons. They are also able to view my social media profiles via clicking on the icons in the footer.
+For employers, I wanted to provide them with some brief information about my skills and my work.In the Work section of my website they can view projects I have worked on and have access to both the live version and the GitHub repository by clicking on the Font Awesome icons. They are also able to view my social media profiles via clicking on the icons in the footer or in the navigation menu.
 
 # Structure
 
@@ -78,4 +78,4 @@ Wireframes were made using www.draw.io
 
 Faviconsd were made using www.favicon.io
 
-This is for educational use.
+**This is for educational use.**
