@@ -14,7 +14,7 @@ Live demo can be found [here](https://misza80.github.io/MAMBROZYK-Portfolio/).
 
 As an employer I expect to see a showcase of Michal's work.
 
-![](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/images/workscreenshot.png)
+![](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/images/myworkscreenshot.png)
 
 As a recruiter I expect be able to find Michal's resume following LinkedIn link.
 
