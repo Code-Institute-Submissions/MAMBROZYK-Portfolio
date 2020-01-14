@@ -76,6 +76,6 @@ All photos were taken from Unsplash.Photos taken by Joshua Earle and Antoine Rau
 
 Wireframes were made using www.draw.io
 
-Faviconsd were made using www.favicon.io
+Favicon were made using www.favicon.io
 
 **This is for educational use.**
