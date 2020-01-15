@@ -54,7 +54,9 @@ In the future I would like to add more projects.I would also like to change the 
 
 ## Testing
 
-Website was tested on Google Chrome,Firefox and Opera browsers in their latest versions.Website was tested on multiple mobile device (Phone5,6,XR Samsung Galaxy s5,Apple Ipad) to ensure compatibility and responsivness.Collapsible navbar works correctly on mobile devices. Code was validated using W3C validation service.All links were tested manually and will open in new browser tab.
+Aim of the test was to verify that the webiste works correctly across different browsers and devices.
+Website was tested on Google Chrome,Firefox and Opera browsers in their latest versions.Website was tested on multiple mobile device (Phone5,6,XR Samsung Galaxy s5,Apple Ipad) to ensure compatibility and responsivness.Chrome developer tools were also used to check for compatibility and responsiveness.Collapsible navbar works correctly on mobile devices. Code was validated using W3C validation service.All links were tested manually and will open in new browser tab.
+More detailed list of tested items and results cona be found ![here](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/Testresults.md).
 
 ## Deployment
 
