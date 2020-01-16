@@ -63,19 +63,19 @@ More detailed list of tested items and results can be found [here](https://githu
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch.
 In order to setup github pages I did the following:
 
-..\* **Created a new repository**
-From the main page I clicked on "New repository" button,gave it a name and clicked "Create a repository" button.
+- **Created a new repository**
+  From the main page I clicked on "New repository" button,gave it a name and clicked "Create a repository" button.
 
-..\* **Published my website**
-While on the repository main page clicked on "Settings" tab, scrolled down to "Github pages" section.From the dropdown menu chose "master branch" and clicked "Save" button.
+- **Published my website**
+  While on the repository main page clicked on "Settings" tab, scrolled down to "Github pages" section.From the dropdown menu chose "master branch" and clicked "Save" button.
 
-..\* **VS Code Setup**
-For writing code I used VisualStudio Code (VS Code).
-To get VS Code working correctly with GitHub,you need to install latest version of Git first,after that you can install VS Code.
-When installation finished I have cloned my repository,first by copying to clipboard the link to repository from the github page and then pasting it after `git clone` command into VS Code terminal.
-After selecting the save folder, proceded to creating files and folders for my project.
-From the source control tab I could stage and commit changes to the repository.
-After entering the commit message I was able to push the commited changes.
+- **VS Code Setup**
+  For writing code I used VisualStudio Code (VS Code).
+  To get VS Code working correctly with GitHub,you need to install latest version of Git first,after that you can install VS Code.
+  When installation finished I have cloned my repository,first by copying to clipboard the link to repository from the github page and then pasting it after `git clone` command into VS Code terminal.
+  After selecting the save folder, proceded to creating files and folders for my project.
+  From the source control tab I could stage and commit changes to the repository.
+  After entering the commit message I was able to push the commited changes.
 
 To run locally, you can clone this repository directly into the editor of your choice by pasting `git clone https://github.com/misza80/MAMBROZYK-Portfolio.git` into your terminal. To cut ties with this GitHub repository, type `git remote rm origin` into the terminal.
 
