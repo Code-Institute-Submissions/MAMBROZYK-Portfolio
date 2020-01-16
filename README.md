@@ -10,7 +10,7 @@ Live demo can be found [here](https://misza80.github.io/MAMBROZYK-Portfolio/).
 
 ## UX
 
-# User stories
+### User stories
 
 As an employer I expect to see a showcase of Michal's work.
 
@@ -18,25 +18,25 @@ As an employer I expect to see a showcase of Michal's work.
 
 As a recruiter I expect be able to find Michal's resume following LinkedIn link.
 
-# Strategy
+### Strategy
 
 My goal in the design was to create a simple,easy to navigate website.
 
-# Scope
+### Scope
 
 For employers, I wanted to provide them with some brief information about my skills and my work.In the Work section of my website they can view projects I have worked on and have access to both the live version and the GitHub repository by clicking on the Font Awesome icons. They are also able to view my social media profiles via clicking on the icons in the footer or in the navigation menu.
 
-# Structure
+### Structure
 
 In the about section I wanted to provide a overview of my skills,and in work section a showcase of my projects,with links to repositories and live pages.
 
-# Skeleton
+### Skeleton
 
 [Landing wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/landing.jpg).\
 [About wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/about.jpg).\
 [Work wireframe](https://github.com/misza80/MAMBROZYK-Portfolio/blob/master/wireframes/work.jpg).
 
-# Surface
+### Surface
 
 A plain white background was chosen as to not distract viewer from the content.
 
@@ -62,11 +62,14 @@ More detailed list of tested items and results can be found [here](https://githu
 
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch.
 In order to setup github pages I did the following:
-**Created a new repository**
+
+..\* **Created a new repository**
 From the main page I clicked on "New repository" button,gave it a name and clicked "Create a repository" button.
-**Published my website**
+
+..\* **Published my website**
 While on the repository main page clicked on "Settings" tab, scrolled down to "Github pages" section.From the dropdown menu chose "master branch" and clicked "Save" button.
-**VS Code Setup**
+
+..\* **VS Code Setup**
 For writing code I used VisualStudio Code (VS Code).
 To get VS Code working correctly with GitHub,you need to install latest version of Git first,after that you can install VS Code.
 When installation finished I have cloned my repository,first by copying to clipboard the link to repository from the github page and then pasting it after `git clone` command into VS Code terminal.
@@ -78,15 +81,15 @@ To run locally, you can clone this repository directly into the editor of your c
 
 ## Credits
 
-# Content
+### Content
 
 All content was written by me.
 
-# Media
+### Media
 
 All photos were taken from Unsplash.Photos taken by Joshua Earle and Antoine Rault.
 
-# Acknowledgements
+### Acknowledgements
 
 Wireframes were made using www.draw.io
 
