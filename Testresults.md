@@ -96,10 +96,6 @@ Result:**Yes**
 
 Result:**Yes**
 
-**CSS Print:** A print stylesheet is provided and is correct on each page.
-
-Result:**No**
-
 **Unique ID:** If IDs are used, they are unique to a page.
 
 Result:**Yes**
